@@ -9,8 +9,9 @@ Now that I learned TLA+, and that the existing material does not seem to cover f
 ## Resources of the talk
 
 - [Replay of the talk](https://www.youtube.com/watch?v=g6VveDQDDqU)
-- TLA+ code of the talk: this repository
-- blog articles that explains other aspects of the same kata: [part 1](https://sadraskol.com/posts/modeling-the-train-reservation-kata-part-1) and [part 2](https://sadraskol.com/posts/modeling-the-train-reservation-kata-part-2)
+- Slides: see this repository
+- TLA+ code of the talk: see this repository
+- Articles that explains other aspects of the same kata: [part 1](https://sadraskol.com/posts/modeling-the-train-reservation-kata-part-1) and [part 2](https://sadraskol.com/posts/modeling-the-train-reservation-kata-part-2)
 
 ## Where to look for next
 
